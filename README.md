@@ -5,7 +5,6 @@
 Install
 --------------
 
-sudo make install
    * `git clone https://github.com/jumorean/soem_package.git`
    * `cd soem_package`
    * `mkdir build`
